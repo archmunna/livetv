@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",T Sports HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.svg" group-title="FIFA World Cup 2026",T Sports HD
+http://30.30.30.138:8088//102/embed.html?token=f627ea1b26e8a789312ef8e24d0ad467f1fff567-0aadc3edfc4c763145f2dd0866337061-1781436873-1781433273&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.svg" group-title="FIFA World Cup 2026",T Sports HD
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Football World Cup 2026",BTV
 http://198.195.239.50:8095/PTV-kutta/video.m3u8

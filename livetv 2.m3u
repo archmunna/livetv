@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.svg" group-title="FIFA World Cup 2026",T Sports HD
 http://30.30.30.138:8088//102/embed.html?token=f627ea1b26e8a789312ef8e24d0ad467f1fff567-0aadc3edfc4c763145f2dd0866337061-1781436873-1781433273&remote=no_check_ip.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-png2285.logowik.com.webp" group-title="FIFA World Cup 2026",Bein Sport 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="FIFA World Cup 2026",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.svg" group-title="FIFA World Cup 2026",T Sports HD
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Football World Cup 2026",BTV
